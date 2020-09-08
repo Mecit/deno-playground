@@ -14,5 +14,5 @@ const second = ['x', 'y', 'z']
 //     [ "c", "x" ],
 //     [ "c", "y" ],
 //     [ "c", "z" ]
-//   ]  
+// ]  
 console.log(cartesianProduct(first, second))
