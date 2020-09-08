@@ -1,1 +1,1 @@
-Playing around with and exploring [https://deno.land](Deno) following along the code examples in [https://deno.land/manual/examples](the official docs) with my own tweaks.
+Playing around with and exploring [Deno](https://deno.land) following along the code examples in [the official docs](https://deno.land/manual/examples) with my own tweaks.
